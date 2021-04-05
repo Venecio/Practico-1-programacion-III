@@ -1,0 +1,64 @@
+*{
+    background-color: #181818;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.label_ej{
+    color:gold;
+    font-weight: bold;
+}
+.botonvolver{
+    cursor: pointer;
+    padding:10px;
+    background-color: silver;
+    display: inline;
+    text-decoration: none;
+    color: black;
+
+}
+.botonenviar{
+    color:#BFC9CA;
+    padding:10px;
+    display: inline;
+    background-color: silver;
+    color: black;
+    margin-bottom: 10px;
+
+
+}
+form{
+    text-align: center;
+
+}
+.botonenviar:hover{
+    background-color: black;
+    color:white;
+
+}
+.botonvolver:hover{
+    background-color: black;
+    color:white;
+
+}
+input[type=number]{
+    width: 15%;
+    padding:10px;
+    border-radius: 4px;
+    border: 2px solid red;
+    color:#BFC9CA;
+
+
+}
+h1{
+    padding: 20px;
+    background-color: gold;
+}
+.texto{
+    border: 2px solid gold;
+    background-color: #181818;    
+    text-align: center;
+    width: 20%;
+    color:#BFC9CA;
+    padding:10px;
+}
