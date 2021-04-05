@@ -3,7 +3,7 @@
 
 
 1. Probar los siguientes usos de variables
- - $var1 = 5 + “10”;
+  $var1 = 5 + “10”;
  - echo $var 1;
  - $var2 = 5  + “10 veces”:
  - echo $var2;
